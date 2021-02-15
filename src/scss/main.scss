@@ -1,0 +1,41 @@
+// CUSTOM COMPONENTS STYLES
+// .burger {
+//   --burger-width: 40px;
+//   --burger-height: 20px;
+//   --burger-line-height: 2px;
+
+//   @include burger;
+// }
+
+@import "./components/header";
+@import "./components/footer";
+@import "_mixins";
+
+
+
+
+
+
+.main-btn {
+    @include main-btn;
+}
+
+
+.main-title {
+
+}
+
+.section-inner {
+    display: flex;
+
+}
+
+
+.main-section {
+
+}
+
+.content-block {
+   
+}
+

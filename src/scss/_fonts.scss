@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'MinionPro-Bold';
+	src: url('../fonts/Minion\ Pro\ Bold.woff2');
+	src: local('☺'), url('../fonts/MinionPro-Bold.woff') format('woff'), url('../fonts/MinionPro-Bold.ttf') format('truetype'), url('../fonts/MinionPro-Bold.svg') format('svg'),url('../fonts/MinionPro-Bold.eot') format('embedded-opentype');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Mont-DEMOExtraLight';
+	src: url('../fonts/Montextralightdemo.woff2');
+	src: local('☺'), url('../fonts/Montextralightdemo.woff') format('woff'), url('../fonts/Montextralightdemo.ttf') format('truetype'), url('../fonts/Mont-DEMOExtraLight.svg') format('svg'),  url('../fonts/Mont-DEMOExtraLight.eot') format('embedded-opentype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Mont-DEMOHeavy';
+	src: url('../fonts/Montheavydemo.woff2');
+	src: local('☺'), url('../fonts/Montheavydemo.woff') format('woff'), url('../fonts/Montheavydemo.ttf') format('truetype'), url('../fonts/Mont-DEMOHeavy.svg') format('svg'),  url('../fonts/Mont-DEMOHeavy.eot') format('embedded-opentype');
+	font-weight: 900;
+	font-style: normal;
+}
